@@ -1,2 +1,6 @@
 # 2025_11_01__tvdi_python_crawel_18
 職能發展學院2025年11月01日至12月20日每週六視窗網路爬蟲班
+
+
+## 上課連結
+https://meet.google.com/wvr-dpms-iim
